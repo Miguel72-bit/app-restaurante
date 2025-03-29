@@ -20,7 +20,7 @@
 ### Pasos para instalar:
 1. Clonar el repositorio:
    ```bash
-   git clone https://github.com/tu-usuario/restaurantes-cali.git
+   git clone https://github.com/Miguel72-bit/restaurantes-cali.git
 
 ### Capturas de la app
 ![ImagenApp3](https://github.com/user-attachments/assets/56c047f1-0b1c-42ec-9649-e4dfc791c946)
