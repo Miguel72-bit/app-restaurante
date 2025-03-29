@@ -21,3 +21,8 @@
 1. Clonar el repositorio:
    ```bash
    git clone https://github.com/tu-usuario/restaurantes-cali.git
+
+### Capturas de la app
+![ImagenApp3](https://github.com/user-attachments/assets/56c047f1-0b1c-42ec-9649-e4dfc791c946)
+![ImagenApp2](https://github.com/user-attachments/assets/c85066cb-5d84-4767-be54-fa6b78037854)
+![ImagenApp](https://github.com/user-attachments/assets/085f56e9-b78e-4f86-af00-6730adcdb077)
